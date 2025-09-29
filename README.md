@@ -220,7 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**⭐ If this project helps you, please give it a star! ⭐**
+**⭐⭐ If this project helps you, please give it a star! ⭐⭐**
 
 
 </div>
